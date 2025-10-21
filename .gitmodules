@@ -1,0 +1,3 @@
+[submodule "start/everforest"]
+	path = start/everforest
+	url = git@github.com:neanias/everforest-nvim.git
